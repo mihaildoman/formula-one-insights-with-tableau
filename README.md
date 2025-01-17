@@ -1,8 +1,8 @@
 # Formula One Insights with Tableau
 
-Rising from the legacy of the interwar drivers' championships, [Formula One](https://formula1.com) officially began with the 1950 British Grand Prix at Silverstone, marking the first-ever world championship race. Since its inception, the sport has stood as the pinnacle of global motorsport, continuously pushing the boundaries of racing and automotive engineering.
+Rising from the legacy of the interwar drivers' championships, [Formula One](https://en.wikipedia.org/wiki/Formula_One) officially began with the 1950 British Grand Prix at Silverstone, marking the first-ever world championship race. Since its inception, the sport has stood as the pinnacle of global motorsport, continuously pushing the boundaries of racing and automotive engineering.
 
-As the highest class of international racing, Formula One is governed by a dynamic set of regulations - [the formula](https://en.wikipedia.org/wiki/Formula_One) - that all participants must adhere to. The sport spans continents, hosting races on purpose-built circuits and closed public roads, bringing the thrill of competition to audiences worldwide.
+As the highest class of international racing, Formula One is governed by a dynamic set of regulations - the formula - that all participants must adhere to. The sport spans continents, hosting races on purpose-built circuits and closed public roads, bringing the thrill of competition to audiences worldwide.
 
 Over the decades, Formula One has captivated fans with legendary races, iconic drivers and teams who have tested the limits of human skill and technological innovation. 
 
